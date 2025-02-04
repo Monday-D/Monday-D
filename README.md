@@ -1,4 +1,4 @@
-<h1 align="left">🛠 I don't fix bugs, i give them personalities</h1>
+<h1 align="left">🛠 I don't fix bugs, i give them personalities.</h1>
 
 ###
 

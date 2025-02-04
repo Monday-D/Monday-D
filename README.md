@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">🛠 I don't fix bugs, i give them personalities</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since  2024<br>📚 I'm currently learning javascript<br>🎯 Goal: To Become Frontend-Developer<br>🎲 Fun fact: I love Marvel Movies</p>
+<p align="left">✨ Creating bugs since  2024<br>📚 I'm currently learning javascript<br>🎯 Goal: To Become Frontend-Developer<br>🎲 Fun fact: I have no idea what i'm doing</p>
 
 ###
 

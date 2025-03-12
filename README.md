@@ -30,9 +30,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Monday-D/count.svg?"  />
-</div>
+
 
 ###
 

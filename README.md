@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since  2024<br>📚 I'm currently learning javascript<br>🎯 Goal: Become a Frontend-Dev so good, people will think i sold my soul to Javascript<br>🎲 Fun fact: I have no idea what i'm doing</p>
+<p align="left">✨ Creating bugs since  2024<br>📚 I'm currently learning linux<br>🎯 Goal: Become a DevOps so good, people will think i sold my soul to Cloud<br>🎲 Fun fact: I have no idea what i'm doing</p>
 
 ###
 

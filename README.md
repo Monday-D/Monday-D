@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since  2024<br>📚 I'm currently learning linux<br>🎯 Goal: Become a DevOps so good, people will think i sold my soul to Cloud<br>🎲 Fun fact: I have no idea what i'm doing</p>
+<p align="left">✨ Creating bugs since  2024<br>📚 I'm currently learning linux<br>🎯 Goal: Become a Developer so good, people will think i sold my soul to Servers<br>🎲 Fun fact: I have no idea what i'm doing</p>
 
 ###
 
@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="c logo"  />
 </div>
 
 ###
